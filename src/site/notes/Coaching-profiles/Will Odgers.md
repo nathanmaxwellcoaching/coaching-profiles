@@ -1,5 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-14T06:01:00.000+10:00","updated":"2025-05-15T10:33:30.427+10:00"}
+{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.870+10:00","updated":"2025-05-15T11:37:23.799+10:00"}
 ---
+
+> [! Profile]
+> **Strokes to focus on**
+> 	- 
+> **Areas to work on**
+
+## Log
 
 - high head position when breathing
