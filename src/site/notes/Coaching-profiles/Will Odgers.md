@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.870+10:00","updated":"2025-05-15T11:37:23.799+10:00"}
+{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.870+10:00","updated":"2025-05-15T11:41:13.712+10:00"}
 ---
 
-> [! Profile]
+> [! Profile] Profile
 > **Strokes to focus on**
 > 	- 
 > **Areas to work on**
