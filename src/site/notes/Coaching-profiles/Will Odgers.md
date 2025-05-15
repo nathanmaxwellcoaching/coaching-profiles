@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.870+10:00","updated":"2025-05-15T11:42:37.524+10:00"}
+{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.870+10:00","updated":"2025-05-15T11:45:58.956+10:00"}
 ---
 
 > [! Profile] Profile
@@ -9,4 +9,4 @@
 
 ## Log
 
-- high head position when breathing
+- high head position when breathing, sinking the legs
