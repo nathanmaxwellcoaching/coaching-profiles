@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nm-coaching-profiles-home/","tags":["gardenEntry"],"created":"2025-05-15T10:34:43.044+10:00","updated":"2025-05-15T11:23:20.424+10:00"}
+{"dg-publish":true,"permalink":"/nm-coaching-profiles-home/","tags":["gardenEntry"],"created":"2025-05-15T10:34:43.044+10:00","updated":"2025-05-15T11:45:36.240+10:00"}
 ---
 
 | Athlete                                           |
@@ -10,5 +10,3 @@
 
 > [!file]
 > [The Training Blueprint 1.0](https://drive.google.com/file/d/1_E0kKx1gN-ly-qsRiLk63FJLHNGfaC1r/view?usp=sharing)
-
-> [!]
