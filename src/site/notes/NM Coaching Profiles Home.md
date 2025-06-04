@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/nm-coaching-profiles-home/","tags":["gardenEntry"],"created":"2025-05-15T10:34:43.044+10:00","updated":"2025-06-04T20:36:52.839+10:00"}
 ---
 
-![2.png](/img/user/2.png)
+![2.png](/img/user/Extras/2.png)
 
 | Athlete                                           |
 | ------------------------------------------------- |

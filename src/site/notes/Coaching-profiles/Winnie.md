@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coaching-profiles/winnie/","created":"2025-05-17T16:20:47.444+10:00","updated":"2025-05-17T16:27:40.348+10:00"}
+{"dg-publish":true,"permalink":"/coaching-profiles/winnie/","created":"2025-05-17T16:20:47.000+10:00","updated":"2025-05-17T16:27:40.000+10:00"}
 ---
 
 > [! Profile]

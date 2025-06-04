@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.000+10:00","updated":"2025-05-16T10:56:43.000+10:00"}
+{"dg-publish":true,"permalink":"/coaching-profiles/will-odgers/","created":"2025-05-15T11:37:15.870+10:00","updated":"2025-05-16T10:56:43.128+10:00"}
 ---
 
 > [! Profile] Profile
